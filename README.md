@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1> Next Level Week 01 - Ecoleta - 01/06/2020 - 05/06/2020. </h1>
+  <h1> Next Level Week 01 - Ecoleta - 01/06/2020 - 05/06/2020 </h1>
 </div>
 
 <div align="center" style="margin: 20px;">
@@ -53,12 +53,22 @@
 ## 👨‍🚀 Dependências Utilizadas
 
   <p> <strong> Back-end </strong>: celebrate, cors, express, knex, multer, sqlite3. </p>
-  <p> <strong> Front-end Web </strong>: axios, react-leaflet, react-dropzone, react-icons, react-router-dom </p>
-  <p> <strong> Front-end Mobile </strong>: expo-font, expo-location, , expo-mail-composer, expo-google-fonts, react-navigation, axios, constants, logkitty, react-native-gesture-handler, react-native-maps, react-native-reanimated, react-native-safe-area-context", react-native-screens, react-native-svg </p>
+  <p> <strong> Front-end Web </strong>: axios, react-leaflet, react-dropzone, react-icons, react-router-dom. </p>
+  <p> <strong> Front-end Mobile </strong>: expo-font, expo-location, , expo-mail-composer, expo-google-fonts, react-navigation, axios, constants, logkitty, react-native-gesture-handler, react-native-maps, react-native-reanimated, react-native-safe-area-context", react-native-screens, react-native-svg. </p>
   
 ## 🔥 Prévia da Aplicação
 
-teste
+<div align="center" style="margin: 50px;">
+  <div style="margin: 50px;">
+    <img alt="tela web um" src="./img/web-1.png" width="600" heigth="300" style="margin: 50px;"/>
+    <img alt="tela web dois" src="./img/web-2.png" width="600" heigth="300" style="margin: 50px;"/>
+  </div>
+  <div style="margin: 50px;">
+    <img alt="tela mobile um" src="./img/mobile-1.jpg" width="200" heigth="150" style="margin: 50px;"/>
+    <img alt="tela mobile dois" src="./img/mobile-2.jpg" width="200" heigth="150" style="margin: 50px;"/>
+    <img alt="tela mobile três" src="./img/mobile-3.jpg" width="200" heigth="150" style="margin: 50px;"/>
+  </div>
+</div>
 
 ## 🔨 Deploy da Aplicação
 
