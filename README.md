@@ -2,7 +2,9 @@
   <img alt="logo ecoleta" src="./img/logo.svg" width="auto" heigth="auto"/>
 </div>
 
-# Next Level Week 01 - Ecoleta - 01/06/2020 - 05/06/2020
+<div align="center">
+  <h1> Next Level Week 01 - Ecoleta - 01/06/2020 - 05/06/2020. </h1>
+</div>
 
 <div align="center" style="margin: 20px;">
   <p align="center" >
