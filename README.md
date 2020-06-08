@@ -1,4 +1,4 @@
-<div align="center" style="margin-bottom: 50px;">
+<div align="center" style="margin: 50px;">
   <img alt="logo ecoleta" src="./img/logo.svg" width="auto" heigth="auto"/>
 </div>
 
