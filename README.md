@@ -30,7 +30,7 @@
 <p> A aplicação foi criada através do curso realizado pela 
   <img alt="logo rocketseat" src="./img/rocketseat.png" width="auto" heigth="auto"/>
   <a href="https://rocketseat.com.br/"> Rocketseat </a>
-  (Next Level Week - 01), onde esse curso foi realizado no dia 01/06/2020 até o dia 05/06/2020. 
+  (Next Level Week - 01), onde esse curso foi realizado no dia <strong> 01/06/2020 </strong> até o dia <strong> 05/06/2020 </strong>. 
 </p> 
 
 ## 🚀 Tecnologias Utilizadas
