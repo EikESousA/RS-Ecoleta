@@ -6,7 +6,7 @@
 
 <div align="center" style="margin: 20px;">
   <p align="center" >
-    <a href="#-descricao-da-aplicacao"> 🎯 Descrição da Aplicação </a> |
+    <a href="#-descricao-da-aplicação"> 🎯 Descrição da Aplicação </a> |
     <a href="#-tecnologias-utilizadas"> 🚀 Tecnologias Utilizadas </a> |
     <a href="#-tecnologias-usadas"> 👨‍🚀 Dependências Utilizadas </a> |
   </p>
@@ -35,23 +35,74 @@
 
 ## 🚀 Tecnologias Utilizadas
 
-teste
+<p>
+  <strong> Back-end </strong>: Node.JS com TypeScript
+</P>
+<p>
+  <strong> Front-end Web</strong>: React com TypeScript
+</P>
+<p>
+  <strong> Front-end Mobile</strong>: React Native com TypeScript
+</P>
+<p>
+  <strong> Banco de dados </strong>: SQLite
+</P>
 
 ## 👨‍🚀 Dependências Utilizadas
 
-teste
-
+  <p> <strong> Back-end </strong>: celebrate, cors, express, knex, multer, sqlite3. </p>
+  <p> <strong> Front-end Web </strong>: axios, react-leaflet, react-dropzone, react-icons, react-router-dom </p>
+  <p> <strong> Front-end Mobile </strong>: expo-font, expo-location, , expo-mail-composer, expo-google-fonts, react-navigation, axios, constants, logkitty, react-native-gesture-handler, react-native-maps, react-native-reanimated, react-native-safe-area-context", react-native-screens, react-native-svg </p>
+  
 ## 🔥 Prévia da Aplicação
 
 teste
 
 ## 🔨 Deploy da Aplicação
 
-teste
+<p> Em Construção </p>
 
 ## ⚡ Executando o Projeto
 
+#### Clonando o projeto
 
-teste
+```sh
+$ git clone https://github.com/EikESousA/RS-Ecoleta.git
+$ cd RS-Ecoleta
+```
+
+#### Iniciando a API
+
+```sh
+$ cd server
+$ yarn && yarn dev
+```
+
+#### Iniciando o Frontend
+```sh
+$ cd web
+$ yarn && yarn start
+```
+
+#### Iniciando o Mobile(Android)
+
+```sh
+$ cd mobile
+$ yarn && yarn android && yarn start
+```
 
 ## 🤔 Como Contribuir?
+
+```bash
+# Clone o seu fork
+$ git clone url-do-seu-fork && cd RS-Ecoleta
+
+# Crie uma branch com sua feature ou correção de bugs
+$ git checkout -b minha-branch
+
+# Faça o commit das suas alterações
+$ git commit -m 'feature/bugfix: minhas alterações'
+
+# Faça o push para a sua branch
+$ git push origin minha-branch
+```
