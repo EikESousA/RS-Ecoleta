@@ -72,7 +72,7 @@
 
 ## 🔨 Deploy da Aplicação
 
-<p> Em Construção </p>
+<p> <strong> Em Construção </strong> </p>
 
 ## ⚡ Executando o Projeto
 
@@ -90,13 +90,13 @@ $ cd server
 $ yarn && yarn dev
 ```
 
-#### Iniciando o Frontend
+#### Iniciando o Front-end Web
 ```sh
 $ cd web
 $ yarn && yarn start
 ```
 
-#### Iniciando o Mobile(Android)
+#### Iniciando o Front-end Mobile (Android)
 
 ```sh
 $ cd mobile
