@@ -54,7 +54,7 @@
 
   <p> <strong> Back-end </strong>: celebrate, cors, express, knex, multer, sqlite3. </p>
   <p> <strong> Front-end Web </strong>: axios, react-leaflet, react-dropzone, react-icons, react-router-dom. </p>
-  <p> <strong> Front-end Mobile </strong>: expo-font, expo-location, , expo-mail-composer, expo-google-fonts, react-navigation, axios, constants, logkitty, react-native-gesture-handler, react-native-maps, react-native-reanimated, react-native-safe-area-context", react-native-screens, react-native-svg. </p>
+  <p> <strong> Front-end Mobile </strong>: expo-font, expo-location, , expo-mail-composer, expo-google-fonts, react-navigation, axios, constants, logkitty, react-native-maps, react-native-svg. </p>
   
 ## 🔥 Prévia da Aplicação
 
